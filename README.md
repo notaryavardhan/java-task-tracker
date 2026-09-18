@@ -1,6 +1,6 @@
 # Java CLI Task Tracker
 
-A fast, customizable, and persistent command-line task manager written entirely in Java. No bloated GUIs—just a clean, highly functional terminal interface to help you get things done.
+A fast, customizable, and persistent command-line task manager written entirely in Java. It provides a clean, highly functional terminal interface to help you get things done.
 
 ## 🚀 Features
 
